@@ -1,0 +1,27 @@
+.color-pantone{
+	height:120px;
+	width:100%;
+	display:block
+}
+.wcp-5{
+	padding:5px !important
+}
+.wcm-0{
+	margin:0 !important
+}
+.wcm-5{
+	margin:5px
+}
+.wcp-white-bg{
+	background:#fff
+}
+
+.box-wrap {
+    background: #fff;
+	font-size:13px
+}
+.color-code {
+    padding: 2px 10px 6px;
+    display: block;
+    line-height: 23px;
+}
